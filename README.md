@@ -8,7 +8,7 @@ Ce projet est une application Node.js sécurisée avec un pipeline CI/CD complet
 
 \## Statut de Sécurité
 
-!\[Security Status](https://github.com/<ton-user>/devsecops-lab/actions/workflows/security.yml/badge.svg)
+![Security Status](https://github.com/Maxco-92/devsecops-lab/actions/workflows/security.yml/badge.svg)
 
 
 
