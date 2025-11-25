@@ -2,7 +2,7 @@ FROM node:22-alpine
 WORKDIR /app
 
 COPY src/package.json ./
-RUN npm ci --only=production && npm cache clean --force
+RUN npm install --only=production && npm cache clean --force
 
 COPY src/ ./
 
